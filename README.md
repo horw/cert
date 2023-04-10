@@ -5,3 +5,5 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="yandex%2Falgo3.0%281%29.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+<img src="yandex%2Falgo3.0%281%29.pdf" alt="some text"  width="4200" height="4200">
+
